@@ -22,8 +22,7 @@ A comprehensive online assessment platform for technical skill evaluation.
 4. Open http://localhost:3000
 
 ## Admin Access
-- Email: kalpesh@admin.com
-- Password: Kadmin007
+- 
 
 ## Demo User
 - Email: john@test.com
